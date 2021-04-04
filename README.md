@@ -20,6 +20,14 @@ After repl.it opens up, run the following commands at the console (on the right)
 You 're all set! Open any script to see the code and run it using commands (e.g. `python3 1_BrainRun/code.py`).  
 You can also write `python` in the console to run the interpreter and execute the commands one-by-one.
 
+## Machine Learning Useful Resources
+- [Practical Machine Learning in R](https://leanpub.com/practical-machine-learning-r)
+- [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+- [scikit-learn](https://scikit-learn.org/stable/)
+- [Tensorflow](https://www.tensorflow.org/)
+- [PyTorch](https://pytorch.org/)
+- [Matplotlib](https://matplotlib.org/)
+
 ## Contact Info
 
 For any questions fell free to contact us:
